@@ -1,33 +1,29 @@
 <div align="center" markdown="1">
 <br/>
 
-<img src="https://frappe.io/files/books.png" alt="Frappe Books logo" width="80"/>
+<img src="./public/logo" alt="" width="80"/>
 
 <br/>
 
-<h1>Frappe Books Web</h1>
+<h1>Ledger Book Web</h1>
 
 **Modern Accounting Made Simple**
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/frappe/books)](https://github.com/frappe/books/releases)
-![Platforms](https://img.shields.io/badge/platform-web-yellowgreen)
-[![Publish](https://github.com/frappe/books/actions/workflows/publish.yml/badge.svg)](https://github.com/frappe/books/actions/workflows/publish.yml)
+
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/29507195/207267857-4ae48890-3fb2-4046-80cf-3256b46c72a0.png" alt="Frappe Books Preview"/>
+
 </div>
 <br />
 <div align="center">
-	<a href="https://frappe.io/books">Website</a>
-	-
-	<a href="https://docs.frappe.io/books">Documentation</a>
+
 </div>
 
-## Frappe Books Web
+## Ledger Books Web
 
-This is the web version of Frappe Books, an open-source accounting software aimed at simplifying financial management for businesses. With its clean and user-friendly interface, it streamlines accounting tasks for small and medium-sized enterprises, offering a seamless solution for modern businesses to manage their finances with ease.
+This is the web version of Ledger Book, an open-source accounting software aimed at simplifying financial management for businesses. With its clean and user-friendly interface, it streamlines accounting tasks for small and medium-sized enterprises, offering a seamless solution for modern businesses to manage their finances with ease.
 
 ## Features
 
@@ -59,7 +55,7 @@ This is the web version of Frappe Books, an open-source accounting software aime
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/frappe/books.git
+   git clone https://github.com/aashi/ledgerbook-web.git
    cd books-web
    ```
 
@@ -117,4 +113,4 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Support
 
-If you encounter any problems or have suggestions, please [open an issue](https://github.com/frappe/books/issues/new).
+
